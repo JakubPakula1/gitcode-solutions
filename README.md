@@ -1,4 +1,4 @@
-# GitCode Solutions
+# GitCode.dev Solutions
 
 ## About
 
