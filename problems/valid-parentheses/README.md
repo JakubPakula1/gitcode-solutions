@@ -1,0 +1,1 @@
+# Valid Parentheses\n\n## Problem\nGiven a string containing just the characters \`(\`, \`)\`, \`{\`, \`}\`, \`[\` and \`]\`, determine if the input string is valid.\n\n## Solution\nUse a stack to track opening brackets and match them with closing ones.
