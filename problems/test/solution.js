@@ -1,2 +1,2 @@
 console.log('Hello world!'); 
- const x = 'Commit'
+ const x = 'Commit Hash'
