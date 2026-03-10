@@ -2,11 +2,11 @@
  * @param {number[]} nums
  * @return {boolean}
  */
-function containsDuplicate(nums) {
-    const numSet = new Set(nums)
-    if (numSet.size === nums.length){
-        return "False"
-    }else{
-        return "True"
+var containsDuplicate = function(nums) {
+    const numsSet = new Set(nums)
+    if (numsSet.size === nums.length){
+        return false
+    }else {
+        return true
     }
-}
+};
