@@ -4,14 +4,14 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jakubpakula1&color=blueviolet&style=flat-square)](https://github.com/jakubpakula1)
 [![GitCode Profile](https://img.shields.io/badge/GitCode-Profile-blue?style=flat-square&logo=github)](https://gitcode.dev/u/jakubpakula1)
-[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-0-success?style=flat-square)](https://gitcode.dev/u/jakubpakula1)
-[![Current Streak](https://img.shields.io/badge/🔥%20Streak-1%20days-orange?style=flat-square)](https://gitcode.dev/u/jakubpakula1)
+[![Problems Solved](https://img.shields.io/badge/Problems%20Solved-2-success?style=flat-square)](https://gitcode.dev/u/jakubpakula1)
+[![Current Streak](https://img.shields.io/badge/🔥%20Streak-2%20days-orange?style=flat-square)](https://gitcode.dev/u/jakubpakula1)
 
 </div>
 
-> **JavaScript Explorer | Laying the Foundations for Algorithmic Mastery**
+> **Aspiring Developer | Beginning the Journey**
 
-An emerging developer focused on mastering JavaScript and core data structures. Currently building momentum through daily practice and initial explorations into problem-solving logic.
+A dedicated problem solver with 2 problems solved and a 46.2% success rate. Currently on a 2-day coding streak.
 
 ---
 
@@ -22,31 +22,30 @@ An emerging developer focused on mastering JavaScript and core data structures. 
 <td width="33%" valign="top">
 
 ### ✅ Key Strengths
-- Initial Momentum and Consistency
-- Focus on Modern JavaScript
-- Foundational Interest in Arrays and Hash Tables
+- Consistent practice habits
+- Growing problem-solving skills
+- Commitment to continuous improvement
 
 </td>
 <td width="33%" valign="top">
 
 ### 💡 Growth Areas
-- Problem-Solving Success Rate
-- Algorithm Implementation
-- Code Efficiency and Execution
+- Exploring more advanced algorithms
+- Tackling harder difficulty problems
 
 </td>
 <td width="33%" valign="top">
 
 ### 🎯 Recommended Focus
-- Strengthening Array manipulation skills
-- Completing first 'Easy' difficulty challenge
-- Building a consistent 7-day coding streak
+- Continue daily practice to maintain streak
+- Try medium-difficulty problems for growth
+- Review AI feedback to improve code quality
 
 </td>
 </tr>
 </table>
 
-> *"The expert in anything was once a beginner."*
+> *"Every expert was once a beginner. Keep coding, keep growing!"*
 
 ---
 
@@ -59,21 +58,21 @@ An emerging developer focused on mastering JavaScript and core data structures. 
 ### Overall Performance
 | Metric | Value |
 |:-------|------:|
-| 🧩 Problems Attempted | **1** |
-| ✅ Problems Solved | **0** |
-| 📝 Total Submissions | **1** |
-| 🎯 Success Rate | **0%** |
-| ⚡ Avg Execution Time | **N/A ms** |
+| 🧩 Problems Attempted | **2** |
+| ✅ Problems Solved | **2** |
+| 📝 Total Submissions | **13** |
+| 🎯 Success Rate | **46.2%** |
+| ⚡ Avg Execution Time | **225.2 ms** |
 
 </td>
 <td width="50%">
 
 ### Difficulty Breakdown
-| Difficulty | Count |
-|:-----------|------:|
-| 🟢 Easy | 0 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
+```mermaid
+pie showData
+    title Problems by Difficulty
+    "Easy" : 2
+```
 
 </td>
 </tr>
@@ -87,21 +86,21 @@ An emerging developer focused on mastering JavaScript and core data structures. 
 
 | 🔥 Current Streak | 🏆 Longest Streak | 📅 Last Activity | ✨ Active Today |
 |:-----------------:|:-----------------:|:----------------:|:---------------:|
-| **1 days** | **1 days** | **2026-02-03** | **✅ Yes** |
+| **2 days** | **2 days** | **2026-03-10** | **✅ Yes** |
 
 ### 📅 Weekly Activity Pattern
 
 | Day | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |:----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Submissions** | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
-| **Success** | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **Submissions** | 0 | 3 | 2 | 8 | 0 | 0 | 0 |
+| **Success** | 0 | 2 | 1 | 3 | 0 | 0 | 0 |
 
 ```text
 Weekly Activity Distribution
 Sun │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0
-Mon │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0
-Tue │██████████████████████████████│ 1
-Wed │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0
+Mon │███████████░░░░░░░░░░░░░░░░░░░│ 3
+Tue │███████░░░░░░░░░░░░░░░░░░░░░░░│ 2
+Wed │██████████████████████████████│ 8
 Thu │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0
 Fri │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0
 Sat │░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░│ 0
@@ -110,8 +109,12 @@ Sat │░░░░░░░░░░░░░░░░░░░░░░░░�
 ### 📆 Contribution Heatmap (Last 30 Days)
 
 ```text
-Contribution Activity (2026-02-03 to 2026-02-03)
+Contribution Activity (2026-02-03 to 2026-03-10)
 2026-02-03 │▒▒│ 1 submissions (0 solved)
+2026-02-04 │▒▒│ 1 submissions (1 solved)
+2026-02-25 │██│ 7 submissions (2 solved)
+2026-03-09 │▓▓│ 3 submissions (1 solved)
+2026-03-10 │▒▒│ 1 submissions (1 solved)
 ```
 
 **Legend:** `░░` No activity | `▒▒` 1-2 submissions | `▓▓` 3-5 submissions | `██` 6+ submissions
@@ -123,12 +126,12 @@ Contribution Activity (2026-02-03 to 2026-02-03)
 ```mermaid
 pie showData
     title Languages Used
-    "Javascript" : 1
+    "Javascript" : 13
 ```
 
 | Language | Submissions | Success Rate | Avg Time |
 |:---------|------------:|-------------:|---------:|
-| Javascript | 1 | 0% | N/A ms |
+| Javascript | 13 | 46.2% | 225.2 ms |
 
 ---
 
@@ -137,8 +140,9 @@ pie showData
 ```mermaid
 pie showData
     title Problems by Topic
-    "Array" : 0
-    "Hash Table" : 0
+    "Array" : 2
+    "Hash Table" : 2
+    "Sorting" : 1
 ```
 
 <details>
@@ -146,8 +150,9 @@ pie showData
 
 | Topic | Solved | Attempted | Success Rate | Avg Time |
 |:------|-------:|----------:|-------------:|---------:|
-| Array | 0 | 1 | 0% | N/A ms |
-| Hash Table | 0 | 1 | 0% | N/A ms |
+| Array | 2 | 2 | 100% | 225.2 ms |
+| Hash Table | 2 | 2 | 100% | 225.2 ms |
+| Sorting | 1 | 1 | 100% | 268.5 ms |
 
 </details>
 
@@ -155,21 +160,62 @@ pie showData
 
 ## 🤖 AI Code Review Insights
 
-*No AI feedback statistics available yet. Submit some code to get AI-powered reviews!*
+<table>
+<tr>
+<td width="50%">
+
+### Feedback by Type
+```mermaid
+pie showData
+    title AI Feedback Types
+    "Clean Code" : 4
+```
+
+</td>
+<td width="50%">
+
+### Feedback by Severity
+```mermaid
+pie showData
+    title Feedback Severity
+    "Info" : 4
+```
+
+| Severity | Count | Percentage |
+|:---------|------:|-----------:|
+| ℹ️ Info | 4 | 100.0% |
+| ⚠️ Warning | 0 | 0.0% |
+| 🚨 Critical | 0 | 0.0% |
+
+**Total Reviews:** 4
+
+</td>
+</tr>
+</table>
+
+### 📈 Code Quality Trend
+
+Continue focusing on writing clean, efficient code. Each code review is an opportunity to learn and improve.
 
 ---
 
 ## 📈 Progress Over Time
 
+```mermaid
+pie showData
+    title Problems Solved by Month
+    "2026-02" : 2
+    "2026-03" : 2
+```
 
 | Month | Problems Solved | Submissions | Success Rate |
 |:------|----------------:|------------:|-------------:|
-| 2025-09 | 0 | 0 | 0% |
 | 2025-10 | 0 | 0 | 0% |
 | 2025-11 | 0 | 0 | 0% |
 | 2025-12 | 0 | 0 | 0% |
 | 2026-01 | 0 | 0 | 0% |
-| 2026-02 | 0 | 1 | 0% |
+| 2026-02 | 2 | 9 | 33.3% |
+| 2026-03 | 2 | 4 | 75% |
 
 ---
 
@@ -177,13 +223,13 @@ pie showData
 
 | Achievement | Description | Progress | Status |
 |:------------|:------------|:--------:|:------:|
-| **First Blood** 🔒 | Solve your first problem | `0/1` | 🔄 In Progress |
-| **Getting Started** 🔒 | Solve 10 problems | `0/10` | 🔄 In Progress |
-| **Problem Solver** 🔒 | Solve 50 problems | `0/50` | 🔄 In Progress |
-| **Century Club** 🔒 | Solve 100 problems | `0/100` | 🔄 In Progress |
+| **First Blood** 🏆 | Solve your first problem | `1/1` | ✅ Achieved |
+| **Getting Started** 🔒 | Solve 10 problems | `2/10` | 🔄 In Progress |
+| **Problem Solver** 🔒 | Solve 50 problems | `2/50` | 🔄 In Progress |
+| **Century Club** 🔒 | Solve 100 problems | `2/100` | 🔄 In Progress |
 | **Hard Mode** 🔒 | Solve 5 hard problems | `0/5` | 🔄 In Progress |
-| **Week Warrior** 🔒 | Maintain a 7-day streak | `1/7` | 🔄 In Progress |
-| **Monthly Master** 🔒 | Maintain a 30-day streak | `1/30` | 🔄 In Progress |
+| **Week Warrior** 🔒 | Maintain a 7-day streak | `2/7` | 🔄 In Progress |
+| **Monthly Master** 🔒 | Maintain a 30-day streak | `2/30` | 🔄 In Progress |
 
 ---
 
@@ -191,7 +237,7 @@ pie showData
 
 | ⚡ Avg Execution Time | 🚀 Best Execution Time | 💾 Avg Memory | 🎯 Best Memory |
 |:---------------------:|:----------------------:|:-------------:|:--------------:|
-| **N/A ms** | **N/A ms** | **N/A MB** | **N/A MB** |
+| **225.2 ms** | **171 ms** | **N/A MB** | **N/A MB** |
 
 ---
 
@@ -200,15 +246,18 @@ pie showData
 
 | Metric | Value | Description |
 |:-------|:-----:|:------------|
-| 🎯 Avg Difficulty Score | **0/3.0** | Average difficulty of solved problems |
-| 📈 Consistency Score | **4/100** | Based on activity frequency and streaks |
+| 🎯 Avg Difficulty Score | **1/3.0** | Average difficulty of solved problems |
+| 📈 Consistency Score | **16/100** | Based on activity frequency and streaks |
 | 🚀 Growth Rate | **0%** | Month-over-month improvement |
 
 ---
 
 ## 💡 Personalized Recommendations
 
-- Focus on 'Easy' level Array problems to build confidence. - Explore MDN documentation for JavaScript Hash Table equivalents (Objects/Maps). - Set a goal to solve one problem completely this week. - Review basic Big O notation to understand performance.
+- 📅 **Daily Practice**: Solve at least one problem per day
+- 📈 **Level Up**: Attempt medium difficulty problems
+- 🔍 **Learn from Feedback**: Review AI suggestions carefully
+- 🎯 **Focus Topics**: Work on areas with lower success rates
 
 ---
 
@@ -216,16 +265,16 @@ pie showData
 
 ### 🌟 Summary
 
-Every great developer starts with a single submission. By showing up and initiating your streak, you've already begun the process of transforming curiosity into technical expertise.
+A developer making steady progress with 2 problems solved and a commitment to continuous learning.
 
 ---
 
-**Generated by [GitCode.dev](https://gitcode.dev)** | Last updated: 2026-02-03 20:00:51 UTC
+**Generated by [GitCode.dev](https://gitcode.dev)** | Last updated: 2026-03-10 09:58:00 UTC
 
 <sub>
-🔥 Current Streak: 1 days |
-✅ Problems Solved: 0 |
-🎯 Success Rate: 0%
+🔥 Current Streak: 2 days |
+✅ Problems Solved: 2 |
+🎯 Success Rate: 46.2%
 </sub>
 
 </div>
